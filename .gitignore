@@ -1,0 +1,39 @@
+# Unreal Engine Generated Files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build files
+Build/
+!Build/**/*.ico
+
+# Configuration files
+!Config/**
+
+# Source files
+!Source/**
+
+# Content files
+!Content/**
+
+# Plugins
+!Plugins/**
+
+# Keep your .uproject file
+!*.uproject
