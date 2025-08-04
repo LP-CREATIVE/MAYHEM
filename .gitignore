@@ -37,3 +37,4 @@ Build/
 
 # Keep your .uproject file
 !*.uproject
+Content/StarterContent/
